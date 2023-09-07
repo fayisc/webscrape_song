@@ -1,3 +1,16 @@
+
+song_downloader.py
+
+
+
+
+
+
+
+
+
+main.py
+
 🚀 Web Scraping Magic: Extract Text from Websites by Class 📜
 This Python script performs web scraping magic! It allows you to effortlessly extract text from websites by specifying a target class attribute. Whether you're after headlines, product names, or any text with a specific class, this script has got you covered. It's powered by the requests and BeautifulSoup libraries, making it easy and efficient to use.
 
